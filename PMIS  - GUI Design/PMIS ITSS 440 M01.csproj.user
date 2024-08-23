@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Jordan\Desktop\University of the Cumberlands\Summer 2024\IT Capstone %28ITSS-440-M01%29\Test Apps\PMIS  - GUI Design\PMIS  - GUI Design\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AssignResourcesToTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AssignStakeholderToProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageResourcesWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MilestoneList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MilestoneView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewMilestone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewProjectWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewRequirement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewStakeholder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProjectView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RequirementList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RequirementView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ResourceMgmtAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ResourceMgmtView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchProjectsWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SequenceTasks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StakeholderManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StakeholderView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TaskListView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TaskView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewAssignedResources.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewAssignedStakeholders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

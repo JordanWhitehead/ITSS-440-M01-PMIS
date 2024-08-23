@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jordan\\Desktop\\University of the Cumberlands\\Summer 2024\\IT Capstone (ITSS-440-M01)\\Test Apps\\PMIS  - GUI Design\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A460CF2-E6BF-4B3E-84A8-E19EDE5B7017}|PMIS  - GUI Design\\PMIS ITSS 440 M01.csproj|c:\\users\\jordan\\desktop\\university of the cumberlands\\summer 2024\\it capstone (itss-440-m01)\\test apps\\pmis  - gui design\\pmis  - gui design\\tasklistreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A460CF2-E6BF-4B3E-84A8-E19EDE5B7017}|PMIS  - GUI Design\\PMIS ITSS 440 M01.csproj|solutionrelative:pmis  - gui design\\tasklistreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A460CF2-E6BF-4B3E-84A8-E19EDE5B7017}|PMIS  - GUI Design\\PMIS ITSS 440 M01.csproj|c:\\users\\jordan\\desktop\\university of the cumberlands\\summer 2024\\it capstone (itss-440-m01)\\test apps\\pmis  - gui design\\pmis  - gui design\\projectview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A460CF2-E6BF-4B3E-84A8-E19EDE5B7017}|PMIS  - GUI Design\\PMIS ITSS 440 M01.csproj|solutionrelative:pmis  - gui design\\projectview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A460CF2-E6BF-4B3E-84A8-E19EDE5B7017}|PMIS  - GUI Design\\PMIS ITSS 440 M01.csproj|C:\\Users\\Jordan\\Desktop\\University of the Cumberlands\\Summer 2024\\IT Capstone (ITSS-440-M01)\\Test Apps\\PMIS  - GUI Design\\pmis  - gui design\\projectview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A460CF2-E6BF-4B3E-84A8-E19EDE5B7017}|PMIS  - GUI Design\\PMIS ITSS 440 M01.csproj|solutionrelative:pmis  - gui design\\projectview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskListReport.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Desktop\\University of the Cumberlands\\Summer 2024\\IT Capstone (ITSS-440-M01)\\Test Apps\\PMIS  - GUI Design\\PMIS  - GUI Design\\TaskListReport.cs",
+              "RelativeDocumentMoniker": "PMIS  - GUI Design\\TaskListReport.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Desktop\\University of the Cumberlands\\Summer 2024\\IT Capstone (ITSS-440-M01)\\Test Apps\\PMIS  - GUI Design\\PMIS  - GUI Design\\TaskListReport.cs",
+              "RelativeToolTip": "PMIS  - GUI Design\\TaskListReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:53:17.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAALUSAAAAAAAAAAAvwMUSAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-18T08:48:15.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectView.cs",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Desktop\\University of the Cumberlands\\Summer 2024\\IT Capstone (ITSS-440-M01)\\Test Apps\\PMIS  - GUI Design\\PMIS  - GUI Design\\ProjectView.cs",
+              "RelativeDocumentMoniker": "PMIS  - GUI Design\\ProjectView.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Desktop\\University of the Cumberlands\\Summer 2024\\IT Capstone (ITSS-440-M01)\\Test Apps\\PMIS  - GUI Design\\PMIS  - GUI Design\\ProjectView.cs",
+              "RelativeToolTip": "PMIS  - GUI Design\\ProjectView.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:40:32.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jordan\\Desktop\\University of the Cumberlands\\Summer 2024\\IT Capstone (ITSS-440-M01)\\Test Apps\\PMIS  - GUI Design\\PMIS  - GUI Design\\ProjectView.cs",
+              "RelativeDocumentMoniker": "PMIS  - GUI Design\\ProjectView.cs",
+              "ToolTip": "C:\\Users\\Jordan\\Desktop\\University of the Cumberlands\\Summer 2024\\IT Capstone (ITSS-440-M01)\\Test Apps\\PMIS  - GUI Design\\PMIS  - GUI Design\\ProjectView.cs [Design]",
+              "RelativeToolTip": "PMIS  - GUI Design\\ProjectView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:40:19.051Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
